@@ -1,2 +1,2 @@
 # music_genre_classification
-Classifying music based on genre using CNN and RNN methods
+To Compare and contrast CNN and RNN based music genre classification methods
