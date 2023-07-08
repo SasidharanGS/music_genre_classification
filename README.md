@@ -2,10 +2,19 @@
 ## Aim:
 To Compare and contrast CNN and RNN based music genre classification methods
 
+
+# Methodology:
+- Preprocessing done on the famous GTZAN dataset
+- 3 models have been created, 2 for CNN and 1 for RNN
+- The selection of activation functions and number of layers have been made following general practices and after some deliberate trial and error
+- All the models are trainable on a moderately-powered laptop
+
+
 # How-to:
 - All code is in "Jupyter Notebook" (.ipynb) format
 - Run and edit cells with the help of included comments
-- The original computed weights are also provided as seperate files (.h5) to import and use
+- The originally computed weights are also provided as seperate files (.h5) to import and use
+
 
 # Visualization:
 1. raw files waveform graph:
@@ -21,11 +30,13 @@ To Compare and contrast CNN and RNN based music genre classification methods
 ### Performance
 ![4_cnn_1](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/992911ac-ef61-4611-8040-b55be5fb635a)
 
+
 ## Model 2 (CNN - image based):
 ### Summary
 ![5_cnn_2](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/78ae42be-7584-404e-883f-9fbcb6c58242)
 ### Performance
 ![6_cnn_2_summary](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/b04847ad-5c1b-4703-b9b3-5f93660d7076)
+
 
 ## Model 3 (RNN)
 ### Summary
