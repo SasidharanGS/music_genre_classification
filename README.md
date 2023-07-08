@@ -6,5 +6,5 @@ To Compare and contrast CNN and RNN based music genre classification methods
 - run and edit cells with the help of included comments
 - the original computed weights are also provided as seperate files (.h5) to import and use
 
-#Conclusion:
+# Conclusion:
 - refer documentation
