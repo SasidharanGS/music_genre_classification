@@ -33,9 +33,10 @@ To Compare and contrast CNN and RNN based music genre classification methods
 
 ## Model 2 (CNN - image based):
 ### Summary
-![5_cnn_2](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/78ae42be-7584-404e-883f-9fbcb6c58242)
+![5_cnn_2_summary](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/8de81729-17b4-4f9b-ac59-d46283541c03)
 ### Performance
-![6_cnn_2_summary](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/b04847ad-5c1b-4703-b9b3-5f93660d7076)
+![6_cnn_2](https://github.com/SasidharanGS/music_genre_classification/assets/72748646/57611f9f-d74f-48de-be6b-38c5ad023b4a)
+
 
 
 ## Model 3 (RNN)
